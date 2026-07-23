@@ -9,7 +9,7 @@ Desarollo del laboratorio:
 1) primero se confirmo que la virtualizacion este activada en el equipo.
 2) se descargo Oracle VirtualBox como sofware de virtualizacion para crear y administrar maquinas virtuales.
 3) descarga del sistema operativo se descargó la imagen ISO de Ubuntu Desktop desde su sitio oficial para utilizarla como sistema operativo invitado dentro de la máquina virtual.
-4) 3. Creación de la máquina virtual :Durante la creación se configuraron los siguientes parámetros:
+4)Creación de la máquina virtual :Durante la creación se configuraron los siguientes parámetros:
 Nombre: Ubuntu
 Sistema Operativo: Ubuntu (Linux)
 Memoria RAM: (2048MB)
